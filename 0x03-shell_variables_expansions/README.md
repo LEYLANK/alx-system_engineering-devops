@@ -10,6 +10,5 @@
 8.  Every addition to true knowledge > Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 9. Divide and rule >  Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 10. Love is anterior to life > Write a script that displays the result of BREATH to the power LOVE
-11. 
-
-
+11. There are 10 types of people in the world > Write a script that converts a number from base 2 to base 10.
+12. 
