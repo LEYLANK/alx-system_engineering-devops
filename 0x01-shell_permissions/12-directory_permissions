@@ -1,1 +1,2 @@
-mkdir my_dir chmod 751
+#!/bin/bash
+mkdir dir_holberton -m=751
