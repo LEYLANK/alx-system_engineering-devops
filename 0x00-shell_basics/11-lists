@@ -1,1 +1,2 @@
-script that lists all files
+#!/bin/bash
+ls -la . .. /boot
